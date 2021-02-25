@@ -1,5 +1,6 @@
 # Import the Tkinter & Turtle Graphics Modules
-import Tkinter
+import tkinter as tk
+
 import turtle
 
 # Create Game Window
